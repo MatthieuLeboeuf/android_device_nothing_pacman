@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/nothing/Pacman/device.mk)
 
 PRODUCT_DEVICE := Pacman
-PRODUCT_NAME := omni_Pacman
+PRODUCT_NAME := twrp_Pacman
 PRODUCT_BRAND := Nothing
 PRODUCT_MODEL := A142
 PRODUCT_MANUFACTURER := nothing
